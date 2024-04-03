@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\GLP\SDLx64-01\Main.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-01\Main.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-01\Main.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-01\Main.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GLP\SDLx64-01\Main.cpp(91,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SDLx64-01.vcxproj -> C:\GLP\SDLx64-01\x64\Debug\SDLx64-01.exe
