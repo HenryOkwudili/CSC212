@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F83CB22-8D7E-457B-95C7-CB9307DF7AE8}|Pyramid.vcxproj|C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F83CB22-8D7E-457B-95C7-CB9307DF7AE8}|Pyramid.vcxproj|solutionrelative:Main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F83CB22-8D7E-457B-95C7-CB9307DF7AE8}|Pyramid.vcxproj|C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F83CB22-8D7E-457B-95C7-CB9307DF7AE8}|Pyramid.vcxproj|solutionrelative:Main3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main3.cpp",
+              "DocumentMoniker": "C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main3.cpp",
+              "RelativeDocumentMoniker": "Main3.cpp",
+              "ToolTip": "C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main3.cpp",
+              "RelativeToolTip": "Main3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T20:07:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main2.cpp",
+              "DocumentMoniker": "C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main2.cpp",
+              "RelativeDocumentMoniker": "Main2.cpp",
+              "ToolTip": "C:\\Users\\Henry\\OneDrive\\Documents\\CSC212\\Pyramid\\Main2.cpp",
+              "RelativeToolTip": "Main2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T20:07:43.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

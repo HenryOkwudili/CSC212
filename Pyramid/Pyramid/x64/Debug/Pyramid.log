@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Main2.cpp
+  Main3.cpp
+  Generating Code...
+C:\Users\Henry\OneDrive\Documents\CSC212\Pyramid\Main.cpp(1,10): error C1083: Cannot open include file: 'cube.h': No such file or directory
+C:\Users\Henry\OneDrive\Documents\CSC212\Pyramid\Main2.cpp(1,10): error C1083: Cannot open include file: 'cubeNoOOP.h': No such file or directory
+C:\Users\Henry\OneDrive\Documents\CSC212\Pyramid\Main3.cpp(1,10): error C1083: Cannot open include file: 'Renderer3D.h': No such file or directory
