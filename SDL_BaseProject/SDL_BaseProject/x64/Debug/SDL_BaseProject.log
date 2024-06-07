@@ -1,2 +1,2 @@
 ﻿  sdl.cpp
-  SDL_BaseProject.vcxproj -> C:\Users\Nkon1\Documents\CSC212\CODES\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\SDL_BaseProject\sdl.cpp : error C1041: cannot open program database 'C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\SDL_BaseProject\SDL_BaseProject\x64\Debug\vc143.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
