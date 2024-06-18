@@ -1,2 +1,29 @@
-﻿  Main.cpp
-  YoutubeOpenGL.vcxproj -> C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\YoutubeOpenGL 8 - Camera\x64\Debug\YoutubeOpenGL.exe
+﻿  Camera.cpp
+  EBO.cpp
+  Main.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\Camera.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Camera.cpp')
+  
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\EBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'EBO.cpp')
+  
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\Main.cpp(7,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  shaderClass.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\shaderClass.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'shaderClass.cpp')
+  
+  stb.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\stb.cpp(2,9): error C1083: Cannot open include file: 'stb/stb_image.h': No such file or directory
+  Texture.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\Texture.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'Texture.cpp')
+  
+  VAO.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\VAO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VAO.cpp')
+  
+  VBO.cpp
+C:\Users\Nkon1\Documents\CSC212\CODES\CSC212\PyramidWTexture\VBO.h(4,9): error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  (compiling source file 'VBO.cpp')
+  
+  Generating Code...

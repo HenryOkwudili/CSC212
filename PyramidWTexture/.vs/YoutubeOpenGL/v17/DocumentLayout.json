@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\",
+  "WorkspaceRootPath": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\brick.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\brick.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:brick.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\pop_cat.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "AbsoluteMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\pop_cat.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
       "RelativeMoniker": "D:0:0:{D94349FD-5460-401F-9D7A-1CEDAAC766A5}|YoutubeOpenGL.vcxproj|solutionrelative:pop_cat.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Texture.cpp",
-              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Texture.cpp",
               "RelativeDocumentMoniker": "Texture.cpp",
-              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Texture.cpp",
+              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Texture.cpp",
               "RelativeToolTip": "Texture.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\Main.cpp",
+              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAABmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-15T13:37:29.434Z",
               "EditorCaption": ""
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "shaderClass.cpp",
-              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\shaderClass.cpp",
+              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\shaderClass.cpp",
               "RelativeDocumentMoniker": "shaderClass.cpp",
-              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\shaderClass.cpp",
+              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\shaderClass.cpp",
               "RelativeToolTip": "shaderClass.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "pop_cat.png",
-              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\pop_cat.png",
+              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\pop_cat.png",
               "RelativeDocumentMoniker": "pop_cat.png",
-              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\pop_cat.png",
+              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\pop_cat.png",
               "RelativeToolTip": "pop_cat.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-05-13T21:46:00.985Z"
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "brick.png",
-              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\brick.png",
+              "DocumentMoniker": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\brick.png",
               "RelativeDocumentMoniker": "brick.png",
-              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\YoutubeOpenGL 8 - Camera\\brick.png",
+              "ToolTip": "C:\\Users\\Nkon1\\Documents\\CSC212\\CODES\\CSC212\\PyramidWTexture\\brick.png",
               "RelativeToolTip": "brick.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-05-13T21:45:50.574Z"
